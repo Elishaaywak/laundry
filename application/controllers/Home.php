@@ -23,6 +23,11 @@ class Home extends CI_Controller {
 	{
 
 	}
+	
+	public function page()
+	{
+
+	}
 
 	public function service_details()
 	{

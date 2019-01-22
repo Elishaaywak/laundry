@@ -157,7 +157,7 @@
                                 </div>
                             </nav>
                             <div class="cart-box">
-                                <a href="#"><i class="fa fa-shopping-basket" aria-hidden="true"></i>Your Cart(0)</a>
+                                <a href="#"><i class="fa fa-shopping-basket" aria-hidden="true"></i>LOGIN / PLACE ORDER</a>
                             </div>
                         </div>
                     </div>
