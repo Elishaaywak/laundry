@@ -242,40 +242,41 @@
             <div class="title-top centred">Steps</div>
             <div class="sec-title centred"><h2>How We Work</h2></div>
             <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12 column">
+                <div class="col-md-3 col-sm-4 col-xs-12 column">
                     <div class="single-item">
                         <div class="icon-box">
                             <i class="flaticon-phone-call"></i>
                             <div class="number">1</div>
                         </div>
-                        <div class="text">Make A Call</div>
+                        <div class="text">Make An Order</div>
                     </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 column">
-                    <div class="single-item">
-                        <div class="icon-box">
-                            <i class="flaticon-time-1"></i>
-                            <div class="number">2</div>
-                        </div>
-                        <div class="text">Fix Your Time</div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 column">
+                </div>               
+                <div class="col-md-3 col-sm-4 col-xs-12 column">
                     <div class="single-item">
                         <div class="icon-box">
                             <i class="flaticon-vacuum-cleaner"></i>
                             <div class="number">3</div>
                         </div>
-                        <div class="text">We Cleaning</div>
+                        <div class="text">We Collect</div>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 column">
+                <div class="col-md-3 col-sm-4 col-xs-12 column">
+                    <div class="single-item">
+                        <div class="icon-box">
+                            <i class="flaticon-vacuum-cleaner"></i>
+                            <div class="number">3</div>
+                        </div>
+                        <div class="text">Clean & Iron</div>
+                    </div>
+                </div>
+               
+                 <div class="col-md-3 col-sm-4 col-xs-12 column">
                     <div class="single-item">
                         <div class="icon-box">
                             <i class="flaticon-boy-broad-smile"></i>
                             <div class="number">4</div>
                         </div>
-                        <div class="text">Be Happy</div>
+                        <div class="text">Delivery</div>
                     </div>
                 </div>
             </div>
